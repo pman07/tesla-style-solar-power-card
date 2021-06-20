@@ -192,7 +192,7 @@ const Y=(t,e)=>"method"===e.kind&&e.descriptor&&!("value"in e.descriptor)?Object
         ${null!==o?q` <div
               class="acc_text_extra"
               style="font-size:${3*this.pxRate+"px"};
-                        top: ${1*this.pxRate+"px"};
+                        top: ${2*this.pxRate+"px"};
                         width: ${10*this.pxRate+"px"};"
             >
               ${o} ${a}
